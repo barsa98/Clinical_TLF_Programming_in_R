@@ -1,0 +1,24 @@
+trt01p,dcdecod,Subjects,Percentage
+Placebo,ADVERSE EVENT,8,9.3
+Placebo,COMPLETED,58,67.4
+Placebo,DEATH,2,2.3
+Placebo,LACK OF EFFICACY,3,3.5
+Placebo,LOST TO FOLLOW-UP,1,1.2
+Placebo,PHYSICIAN DECISION,1,1.2
+Placebo,PROTOCOL VIOLATION,2,2.3
+Placebo,STUDY TERMINATED BY SPONSOR,2,2.3
+Placebo,WITHDRAWAL BY SUBJECT,9,10.5
+Xanomeline Low Dose,ADVERSE EVENT,44,52.4
+Xanomeline Low Dose,COMPLETED,25,29.8
+Xanomeline Low Dose,DEATH,1,1.2
+Xanomeline Low Dose,LOST TO FOLLOW-UP,1,1.2
+Xanomeline Low Dose,PROTOCOL VIOLATION,1,1.2
+Xanomeline Low Dose,STUDY TERMINATED BY SPONSOR,2,2.4
+Xanomeline Low Dose,WITHDRAWAL BY SUBJECT,10,11.9
+Xanomeline High Dose,ADVERSE EVENT,40,47.6
+Xanomeline High Dose,COMPLETED,27,32.1
+Xanomeline High Dose,LACK OF EFFICACY,1,1.2
+Xanomeline High Dose,PHYSICIAN DECISION,2,2.4
+Xanomeline High Dose,PROTOCOL VIOLATION,3,3.6
+Xanomeline High Dose,STUDY TERMINATED BY SPONSOR,3,3.6
+Xanomeline High Dose,WITHDRAWAL BY SUBJECT,8,9.5

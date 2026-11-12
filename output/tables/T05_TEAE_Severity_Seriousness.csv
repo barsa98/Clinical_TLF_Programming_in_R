@@ -1,0 +1,6 @@
+Section,Category,Placebo,Total,Xanomeline High Dose,Xanomeline Low Dose
+Severity,MILD,58 (67.4%),187 (73.6%),68 (81.0%),61 (72.6%)
+Severity,MODERATE,25 (29.1%),130 (51.2%),52 (61.9%),53 (63.1%)
+Severity,SEVERE,5 (5.8%),29 (11.4%),8 (9.5%),16 (19.0%)
+Seriousness,NON-SERIOUS,65 (75.6%),217 (85.4%),75 (89.3%),77 (91.7%)
+Seriousness,SERIOUS,0 (0.0%),3 (1.2%),2 (2.4%),1 (1.2%)
